@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko dobro se električna vozila snalaze na europskom tržištu?",
+  "subtitle": "U 2024. godini, 13,6% svih novoregistriranih osobnih automobila bili su električni na baterije. To ukazuje na pad tržišnog udjela u odnosu na 14,5% u 2023. godini.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Za ovu analizu uzeti su u obzir svi glavni pogonski sustavi osobnih automobila. To uključuje benzinske i dizelske motore, plug-in hibridne benzinsko-električne i dizelsko-električne sustave, ostale hibridne konfiguracije, baterijsko-električna vozila te vozila na vodik ili gorivne ćelije.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2024.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
