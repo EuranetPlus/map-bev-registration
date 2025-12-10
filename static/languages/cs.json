@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jak se elektromobilům daří na evropském trhu?",
+  "subtitle": "V roce 2024 bylo 13,6 % všech nově registrovaných osobních automobilů poháněných bateriemi. To naznačuje pokles tržního podílu ze 14,5 % v roce 2023.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Pro tuto analýzu byly zváženy všechny hlavní pohonné systémy osobních automobilů. Patří mezi ně benzínové a naftové motory, plug-in hybridní benzínovo-elektrické a naftovo-elektrické systémy, další hybridní konfigurace, vozidla s bateriovým elektrickým pohonem a vozidla na vodík nebo palivové články.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Žádné údaje k dispozici",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
