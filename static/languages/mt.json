@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm sejrin tajjeb il-vetturi elettriċi fis-suq Ewropew?",
+  "subtitle": "Fl-2024, 13.6% tal-karozzi tal-passiġġieri kollha rreġistrati ġodda kienu elettriċi tal-batterija. Dan jindika tnaqqis fis-sehem tas-suq, minn 14.5% fl-2023.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Għal din l-analiżi, ġew ikkunsidrati s-sistemi ewlenin kollha ta' propulsjoni tal-karozzi tal-passiġġieri. Dawn jinkludu magni tal-petrol u tad-diżil, sistemi ibridi plug-in tal-petrol-elettriku u tad-diżil-elettriku, konfigurazzjonijiet ibridi oħra, vetturi elettriċi bil-batterija, u vetturi bl-idroġenu jew b'ċelloli tal-fjuwil.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2024)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
