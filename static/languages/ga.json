@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh maith agus atá feithiclí leictreacha ag déanamh sa mhargadh Eorpach?",
+  "subtitle": "Sa bhliain 2024, ba ghluaisteáin leictreacha ceallraí iad 13.6% de na gluaisteáin paisinéirí nua-chláraithe go léir. Léiríonn sé seo laghdú ar an sciar den mhargadh, síos ó 14.5% sa bhliain 2023.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Don anailís seo, breithníodh na príomhchórais tiomána gluaisteán paisinéirí go léir. Áirítear leo seo innill pheitril agus díosail, córais hibrideacha breiseán peitril-leictreacha agus díosail-leictreacha, cumraíochtaí hibrideacha eile, feithiclí ceallraí-leictreacha, agus feithiclí hidrigine nó breosla-chealla.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2024)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
